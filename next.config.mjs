@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
+    cacheComponents: true,
+    images: {
+        remotePatterns: [new URL("https://static.tvmaze.com/**")],
+    },
 };
 
 export default nextConfig;

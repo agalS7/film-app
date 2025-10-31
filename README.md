@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![SDÜ Film Kulübü]()
 
-## Getting Started
+# 📚 Film Kulübü Uygulaması
 
-First, run the development server:
+Bu proje, Web Teknolojileri ve Programlama dersi 3. ödev sunumu için yapılmıştır.<br>
+Bu uygulama ile kullanıcılar dizileri arayabilir, filtreyebilir, detaylarını inceleyebilir ve aynı zamanda
+gösterimlerine ekleyebilir.<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Demo Linki
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Bana Tıkla]()
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 💎 Özellikler
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 📖 Gösterim Ekleme
+- 🗑️ Gösterim Silme
+- 🔍 Dizi Arama
+- 🔬 Detaylı Dizi Bilgisi Görme
+- 🗂️ Türlerine, Dillerine ve Puanına göre filtreleme
+- 📖 Sayfalandırma sistemi
+- 💾 Local Storage ile Hafıza sistemi
 
-## Learn More
+## 🛠️ Kullanılan Teknolojiler ve Araçlar
 
-To learn more about Next.js, take a look at the following resources:
+| Teknoloji, Araç                                                                                                                                                                                | Kullanım Alanı                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React logo" /> **React**                                       | Kullanıcı arayüzleri oluşturmak                    |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1024px-Nextjs-logo.svg.png" width="60" height="16" alt="Vite logo" /> **Next.JS**                          | React Framework'ü (SSR, Image Optimizations vs...) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="40" height="24" alt="Tailwind CSS logo" /> **Tailwind CSS** | CSS Framework'ü                                    |
+| <img src="https://prettier.io/icon.png" width="40" height="40" alt="Prettier logo" /> **Prettier**                                                                                             | Kodları biçimlendirmek                             |
+| <img src="https://lucide.dev/logo.dark.svg" width="40" height="40" alt="Framer Motion logo" /> **Lucide**        | Vektörel Icon'lar                                  |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧑🏻‍💻 Geliştirici
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Ramazan Bodur**
+- **2321032020** (2. Öğretim)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
