@@ -1,4 +1,4 @@
-![SDÜ Film Kulübü]()
+![SDÜ Film Kulübü](https://raw.githubusercontent.com/agalS7/film-app/refs/heads/master/public/logo.png)
 
 # 📚 Film Kulübü Uygulaması
 
@@ -8,7 +8,7 @@ gösterimlerine ekleyebilir.<br>
 
 ## 🔗 Demo Linki
 
-[Bana Tıkla]()
+[Bana Tıkla](https://film-app-iota.vercel.app/)
 
 ## 💎 Özellikler
 
