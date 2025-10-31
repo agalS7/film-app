@@ -1,5 +1,3 @@
-"use cache";
-
 import axios from "axios";
 import { redirect } from "next/navigation";
 import Starfield from "@/components/starfield";

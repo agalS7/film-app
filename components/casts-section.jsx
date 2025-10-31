@@ -76,7 +76,11 @@ export default function CastsSection({ casts }) {
                         >
                             <div className="relative h-48 w-36">
                                 <Image
-                                    src={cast.person.image ? cast.person.image.original : "/placeholder.svg"}
+                                    src={
+                                        cast.person.image
+                                            ? cast.person.image.original
+                                            : "/placeholder.svg"
+                                    }
                                     alt={cast.person.name}
                                     fill
                                     className="rounded-lg object-cover"
